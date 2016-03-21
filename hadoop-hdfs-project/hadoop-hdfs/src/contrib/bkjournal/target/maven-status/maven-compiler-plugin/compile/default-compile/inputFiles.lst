@@ -1,0 +1,7 @@
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java/org/apache/hadoop/contrib/bkjournal/EditLogLedgerMetadata.java
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java/org/apache/hadoop/contrib/bkjournal/BookKeeperJournalManager.java
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java/org/apache/hadoop/contrib/bkjournal/CurrentInprogress.java
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/generated-sources/java/org/apache/hadoop/contrib/bkjournal/BKJournalProtos.java
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java/org/apache/hadoop/contrib/bkjournal/BookKeeperEditLogOutputStream.java
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java/org/apache/hadoop/contrib/bkjournal/MaxTxId.java
+/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java/org/apache/hadoop/contrib/bkjournal/BookKeeperEditLogInputStream.java

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/test-dir"/>
+  <mkdir dir="/home/niuyang/Downloads/hadoop-2.7.2-src/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/test-dir"/>
+</target>
+</project>
